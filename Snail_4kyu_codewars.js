@@ -1,4 +1,5 @@
 /* Snail 4kuy codewars JavaScript*/
+/* https://www.codewars.com/kata/521c2db8ddc89b9b7a0000c1 */
 snail = (array) => {
     let newArray = [];
     const revFunct = (array) => {
